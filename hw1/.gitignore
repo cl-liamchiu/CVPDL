@@ -1,6 +1,0 @@
-*.pth
-/dataset/
-/Co-DETR/
-/detr/
-/logs/
-*.zip
