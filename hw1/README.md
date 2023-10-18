@@ -1,3 +1,6 @@
+> # **I write this hw1 by using [DINO](https://github.com/IDEA-Research/DINO)** 
+
+
 # Environments
 ```Ubuntu Version=18.04, CUDA Version: 11.2, GeForce RTX 2080 Ti```
 
