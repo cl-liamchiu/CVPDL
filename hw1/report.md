@@ -17,7 +17,7 @@
 
 ## 3. Table of your performance for validation set
 我用 DINO 本身的 evaluation code 來評估模型的表現，得到的結果如下：
-|  AP   | AP<sub>50  | AP<sub>70  |
+|  AP   | AP<sub>50  | AP<sub>75  |
 | :-:    | :-: | :-: |
 | 0.574  | 0.854 |  0.597 |
 
@@ -25,7 +25,7 @@
 
 但我用助教給的 evaluate.py 得到的結果如下：
 
-|  AP   | AP<sub>50  | AP<sub>70  |
+|  AP   | AP<sub>50  | AP<sub>75  |
 | :-:    | :-: | :-: |
 | 0.582  | 0.88649 |  0.6089 |
 
